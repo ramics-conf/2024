@@ -1,0 +1,39 @@
+PC
+
+from 2020/21:
+Roland Backhouse, UK
+Manuel Bodirsky, Germany
+Jules Desharnais, Canada
+Amina Doumane, France
+Hitoshi Furusawa, Japan
+Walter Guttmann, New Zealand
+Robin Hirsch, UK
+Peter Höfner, Australia
+Sebastiaan Joosten, USA
+Stef Joosten, The Netherlands
+Wolfram Kahl, Canada
+Laura Kovacz, Austria
+Dexter Kozen, US
+Wendy MacCaull, Canada
+Roger Maddux, USA
+Annabelle McIver, Australia
+Ali Mili, US
+Dale Miller, France
+Daniela Petrişan, France
+Luigi Santocanale, France
+Sam van Gool, France
+Michael Winter, Canada
+
+proposed additions:
+Loïc Hélouet, France
+Krzysztof Ziemiański, Poland
+Mikołaj Bojanczyk, Poland
+Łukasz Mikulski, Poland
+Matteo Acclavio, Denmark
+Jiři Srba, Denmark
+Nicolas Bedon, France
+Christian Choffrut, France
+Jérémy Dubut, Japan
+Marie Fortin, France
+Tobias Kappé, Netherlands
+Dietrich Kuske, Germany
