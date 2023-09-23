@@ -1,0 +1,28 @@
+Luigi's retroplanning:
+
+T-12m	PC done
+
+T-11m	invited speakers fixed
+	First CfP
+
+T-9m	Second CfP
+
+T-7m	Third CfP, announcing deadline extension
+	abstract deadline
+	paper deadline
+
+T-6m	extended paper deadline
+
+T-5m	review deadline
+
+T-4m	extended review deadline
+	notifications
+	shepherd deadline
+	CfShortContr
+
+T-3m	deadline short contribs
+	notifications short contribs
+	deadline final versions
+	springer proceedings deadline
+
+T-2m	CfPart
