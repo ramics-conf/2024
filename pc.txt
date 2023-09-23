@@ -1,39 +1,52 @@
-PC
+PC proposal:
 
-from 2020/21:
-Roland Backhouse, UK
+Set:
+
 Manuel Bodirsky, Germany
-Jules Desharnais, Canada
 Amina Doumane, France
+Jérémy Dubut, Japan
+Marie Fortin, France
 Hitoshi Furusawa, Japan
 Walter Guttmann, New Zealand
+Loïc Hélouët, France
 Robin Hirsch, UK
 Peter Höfner, Australia
-Sebastiaan Joosten, USA
-Stef Joosten, The Netherlands
-Wolfram Kahl, Canada
+Tobias Kappé, Netherlands
 Laura Kovacz, Austria
 Dexter Kozen, US
+Dietrich Kuske, Germany
 Wendy MacCaull, Canada
 Roger Maddux, USA
 Annabelle McIver, Australia
-Ali Mili, US
 Dale Miller, France
-Daniela Petrişan, France
 Luigi Santocanale, France
-Sam van Gool, France
-Michael Winter, Canada
-
-proposed additions:
-Loïc Hélouet, France
-Krzysztof Ziemiański, Poland
-Mikołaj Bojanczyk, Poland
-Łukasz Mikulski, Poland
-Matteo Acclavio, Denmark
+Sokolova
 Jiři Srba, Denmark
+Ugolini
+Wagemaker
+Michael Winter, Canada
+Krzysztof Ziemiański, Poland
+
+May want:
+
+Roland Backhouse, UK
+Mikołaj Bojanczyk, Poland
+Xavier Caicedo, Colombia: Senior researcher in algebraic and modal logics, https://math.uniandes.edu.co/webxcaicedo/.
+Willem Conradie, South Africa: Similar expertise to Goranko and also a past RAMiCS contributor, https://dblp.org/pid/61/5134.html
+Jules Desharnais, Canada
+Daniel Găină, Japan: Algebraic specification and connections to logic, https://imi.kyushu-u.ac.jp/~daniel/
+Valentin Goranko, Sweden: Expert in several logic-related topics that connect to RAMiCS and past contributor, https://www2.philosophy.su.se/goranko/
+Sebastiaan Joosten, USA
+Stef Joosten, The Netherlands
+Wolfram Kahl, Canada
+
+Do not want:
+
+Matteo Acclavio, Denmark
 Nicolas Bedon, France
 Christian Choffrut, France
-Jérémy Dubut, Japan
-Marie Fortin, France
-Tobias Kappé, Netherlands
-Dietrich Kuske, Germany
+Łukasz Mikulski, Poland
+Ali Mili, US
+Daniela Petrişan, France
+Sam van Gool, France
+
