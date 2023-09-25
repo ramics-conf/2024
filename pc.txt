@@ -1,44 +1,52 @@
+Dear [*FIRST-NAME*],
+
+we would like to invite you to the program committee of the next RAMiCS conference.  It will take place in Prague, associated with AiML, in August 2024, see
+
+    https://ramics-conf.github.io/2024/
+
+You can expect to be asked to review some 6-10 papers, depending on the number of submissions we will receive.
+
+Please respond to this invitation at your earliest convenience,
+Best regards,
+the RAMiCS'24 PC chairs:
+Uli Fahrenberg, Wesley Fussner and Roland Glück
+
+
 PC proposal:
 
-Set:
-
-Manuel Bodirsky, Germany
-Amina Doumane, France
-Jérémy Dubut, Japan
-Marie Fortin, France
-Hitoshi Furusawa, Japan
-Walter Guttmann, New Zealand
-Loïc Hélouët, France
-Robin Hirsch, UK
-Peter Höfner, Australia
-Tobias Kappé, Netherlands
-Laura Kovacz, Austria
-Dexter Kozen, US
-Dietrich Kuske, Germany
-Wendy MacCaull, Canada
-Roger Maddux, USA
-Annabelle McIver, Australia
-Dale Miller, France
-Luigi Santocanale, France
-Sokolova
-Jiři Srba, Denmark
-Ugolini
-Wagemaker
-Michael Winter, Canada
-Krzysztof Ziemiański, Poland
-
-May want:
-
-Roland Backhouse, UK
-Mikołaj Bojanczyk, Poland
-Xavier Caicedo, Colombia: Senior researcher in algebraic and modal logics, https://math.uniandes.edu.co/webxcaicedo/.
-Willem Conradie, South Africa: Similar expertise to Goranko and also a past RAMiCS contributor, https://dblp.org/pid/61/5134.html
-Jules Desharnais, Canada
-Daniel Găină, Japan: Algebraic specification and connections to logic, https://imi.kyushu-u.ac.jp/~daniel/
-Valentin Goranko, Sweden: Expert in several logic-related topics that connect to RAMiCS and past contributor, https://www2.philosophy.su.se/goranko/
-Sebastiaan Joosten, USA
-Stef Joosten, The Netherlands
-Wolfram Kahl, Canada
+Manuel Bodirsky manuel.bodirsky@tu-dresden.de
+Amina Doumane amina.doumane@ens-lyon.fr
+Jérémy Dubut dubutjeremy@gmail.com
+Marie Fortin marie.fortin@irif.fr
+Hitoshi Furusawa furusawa@sci.kagoshima-u.ac.jp
+Walter Guttmann walter.guttmann@canterbury.ac.nz
+Loïc Hélouët loic.helouet@inria.fr
+Robin Hirsch r.hirsch@ucl.ac.uk
+Peter Höfner peter.hoefner@anu.edu.au
+Tobias Kappé tobias.kappe@gmail.com
+Laura Kovacz <laura.kovacs@tuwien.ac.at>
+Dexter Kozen <dexter.kozen@cornell.edu>
+Dietrich Kuske <dietrich.kuske@tu-ilmenau.de>
+Wendy MacCaull <wmaccaul@stfx.ca>
+Roger Maddux <maddux@iastate.edu>
+Annabelle McIver <annabelle.mciver@mq.edu.au>
+Dale Miller <dale@lix.polytechnique.fr>
+Luigi Santocanale <luigi.santocanale@lis-lab.fr>
+Ana Sokolova <anas@cs.uni-salzburg.at>
+Jiři Srba <srba@cs.aau.dk>
+Sara Ugolini <sara.ugolini@du.edu>
+Jana Wagemaker <jana.wagemaker@ru.nl>
+Michael Winter <mwinter@brocku.ca>
+Krzysztof Ziemiański <ziemians@mimuw.edu.pl>
+Roland Backhouse <roland@backhouse.org>
+Mikołaj Bojanczyk <bojan@mimuw.edu.pl>
+Xavier Caicedo <xcaicedo@uniandes.edu.co>
+Willem Conradie <willem.conradie@wits.ac.za>
+Jules Desharnais <jules.desharnais@ift.ulaval.ca>
+Daniel Găină <daniel@imi.kyushu-u.ac.jp>
+Valentin Goranko <valentin.goranko@philosophy.su.se>
+Sebastiaan Joosten <sjoosten@umn.edu>
+Wolfram Kahl <kahl@cas.mcmaster.ca>
 
 Do not want:
 
