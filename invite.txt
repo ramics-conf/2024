@@ -1,8 +1,10 @@
 Cat 1: RAMiCS
 
-G.Struth		M	https://www.isa-afp.org/entries/Multirelations_Heterogeneous.html
+Georg Struth		M	https://www.isa-afp.org/entries/Multirelations_Heterogeneous.html
 
-W.Guttmann		M	SC member
+Walter Guttmann		M	SC member
+
+Jules Desharnais	M	https://dblp.uni-trier.de/search?q=jules+desharnais
 
 
 Cat 2: young
@@ -26,5 +28,7 @@ Cat 3: established, not RAMiCS
 Jetty Kleijn		F	https://www.universiteitleiden.nl/en/staffmembers/jetty-kleijn
 
 Sonia Smets		F	https://sites.google.com/site/thesonjasmetssite/
+
+Gerhard Jäger		M	https://www.inf.unibe.ch/ueber_uns/personen/emeriti/prof_em_dr_jaeger_gerhard/index_ger.html
 
 
