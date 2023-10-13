@@ -18,12 +18,12 @@ Sarah Winter		F	https://sarahwinter.net/
 
 Sandra Kiefer		F	https://www.mpi-sws.org/people/skiefer/
 
-Mehrnoosh Sadrzadeh	F	https://profiles.ucl.ac.uk/72648
-
 Marijana Lazić		F	https://www.cs.cit.tum.de/tcs/personen/marijana-lazic/
 
 
 Cat 3: established, not RAMiCS
+
+Mehrnoosh Sadrzadeh	F	https://profiles.ucl.ac.uk/72648
 
 Jetty Kleijn		F	https://www.universiteitleiden.nl/en/staffmembers/jetty-kleijn
 
