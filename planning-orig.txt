@@ -1,4 +1,4 @@
-planning:
+retroplanning:
 
 T-12m	PC done
 
@@ -8,24 +8,21 @@ T-11m	invited speakers fixed
 T-9m	Second CfP
 
 T-7m	Third CfP, announcing deadline extension
+	abstract deadline
+	paper deadline
+
+T-6m	extended paper deadline
 
 T-5m	review deadline
 
 T-4m	extended review deadline
+	notifications
+	shepherd deadline
 	CfShortContr
 
 T-3m	deadline short contribs
 	notifications short contribs
+	deadline final versions
+	springer proceedings deadline
+
 T-2m	CfPart
-
---
-
-0216	abstract deadline
-0223	paper deadline
-0309	paper deadline ext
-0504	notifications
-0511	notifications ext
-0525	shepherd deadline
-0601	deadline final versions
-0610	springer proceedings deadline
-
