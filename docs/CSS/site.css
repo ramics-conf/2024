@@ -41,7 +41,7 @@ body {
   background-attachment: scroll;
 }
 
-h1, h2, h3 {
+h1, h2, h3, h4 {
   font-family: "trebuchet ms", tahoma, sans-serif;
 }
 
@@ -226,7 +226,7 @@ dd {
 
 /* ###### General Color Scheme ###### */
 
-h1, h2, h3, q, #header *, #footer *, .headerTitle, .sideBox div, .topOfPage
+h1, h2, h3, h4, q, #header *, #footer *, .headerTitle, .sideBox div, .topOfPage
 { 
     /* Text Color: */
     /* color: green; */
