@@ -1,0 +1,58 @@
+Apologies for multiple copies of this email; please distribute as you
+see fit.
+
+                       CALL FOR PAPERS
+
+                         RAMiCS 2024
+              21st International Conference on
+    Relational and Algebraic Methods in Computer Science
+
+                   Prague, Czech Republic
+                     19--23 August 2024
+		    collocated with AiML
+
+            https://ramics-conf.github.io/2024/
+
+
+Since 1994, the RAMiCS conference series has been the main venue for
+research on relation algebras, Kleene algebras and similar algebraic
+formalisms, and their applications as conceptual and methodological
+tools in computer science and beyond.
+
+Theoretical aspects include semigroups, residuated lattices, semi-
+rings, Kleene algebras, relation algebras, quantales and other
+algebras; their connections with program logics and other logics;
+their use in the theories of automata, concurrency, formal languages,
+games, networks and programming languages; the development of
+algebraic, algorithmic, category-theoretic, coalgebraic and proof-
+theoretic methods for these theories; their formalisation with theorem
+provers.
+
+Applications include tools and techniques for program correctness,
+specification and verification; quantitative and qualitative models
+and semantics of computing systems and processes; algorithm design,
+automated reasoning, network protocol analysis, social choice,
+optimisation and control.
+
+We are calling for submission of original work not published or under
+review for publication elsewhere.  The proceedings will be published
+as part of Springer LNCS.  As for earlier RAMiCS conferences, we
+intend to publish a journal special issue with revised and extended
+versions of a selection of the best papers.
+
+IMPORTANT DATES
+
+    Abstract submission: 16 February 2024
+    Paper submission: 23 February 2024
+    Author notification: 4 May 2024
+    Final version due: 1 June 2024
+    Conference dates: 19-23 August 2024
+
+ORGANIZERS
+
+   Uli Fahrenberg, EPITA, Paris, France
+   Wesley Fussner, Czech Academy of Sciences, Prague, Czechia
+   Roland Glück, German Aerospace Center, Augsburg, Germany
+
+
+For more information, see https://ramics-conf.github.io/2024/
