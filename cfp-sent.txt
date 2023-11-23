@@ -1,3 +1,0 @@
-gdr.gpl@imag.fr,sent,mod
-gdr-im@gdr-im.fr,sent
-types-announce@lists.seas.upenn.edu,sent
