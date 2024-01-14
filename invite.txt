@@ -1,7 +1,5 @@
 Cat 1: RAMiCS
 
-Georg Struth		M	https://www.isa-afp.org/entries/Multirelations_Heterogeneous.html
-
 Jules Desharnais	M	https://dblp.uni-trier.de/search?q=jules+desharnais
 
 
