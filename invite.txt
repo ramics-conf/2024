@@ -18,8 +18,6 @@ Gerhard Jäger		M	https://www.inf.unibe.ch/ueber_uns/personen/emeriti/prof_em_dr
 
 Cat 3: young(ish)
 
-Bahareh Afshari		F	https://www.gu.se/en/about/find-staff/baharehafshari
-
 Sarah Winter		F	https://sarahwinter.net/
 
 Marijana Lazić		F	https://www.cs.cit.tum.de/tcs/personen/marijana-lazic/
