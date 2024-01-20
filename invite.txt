@@ -1,7 +1,5 @@
 Cat 1: RAMiCS
 
-Jules Desharnais	M	https://dblp.uni-trier.de/search?q=jules+desharnais
-
 
 Cat 2: not too RAMiCS
 
