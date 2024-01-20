@@ -1,23 +1,19 @@
 #!/bin/bash
 
-ADDRS=uli.txt
-#ADDRS=emails.txt
-#ADDRS=emails-extra.txt
-#ADDRS=emails-new.txt
+ADDRS=emails-test.csv
+#ADDRS=ramics-emails.csv
 
 FROM=fahrenberg@gmail.com
 
-EMAILCONT=announce.txt
+EMAILCONT=cfp2.txt
 
-#SUBJECT='(i)Po(m)set Project Online Seminar: Safa Zouari tomorrow 17 March 11:00 CET'
-#SUBJECT='(i)Po(m)set Project Online Seminar: Sergio Rajsbaum Friday 14 April'
-#SUBJECT='(i)Po(m)set Project Online Seminar: Mikołaj Bojańczyk tomorrow 15 December 10:30 CET 🎄'
-SUBJECT='PPOS Christmas Disaster'
+SUBJECT='CfP: Relational and Algebraic Methods in Computer Science, RAMiCS 2024, Prague'
 
 #TMPDIR=$(mktemp -d)
 TMPDIR=/tmp
 
 echo "Sending emails to all people in $ADDRS"
+#ramics-emails.csv: 
 
 for LINE in $(cat $ADDRS); do
     #echo $LINE
