@@ -15,20 +15,21 @@ TMPDIR=/tmp
 echo "Sending emails to all people in $ADDRS"
 #ramics-emails.csv: 
 
-for LINE in $(cat $ADDRS); do
+while read -r LINE; do
+#for LINE in $(cat $ADDRS); do
     #echo $LINE
+    LAST=$(echo $LINE|awk -F, '{print $1}')
     FIRST=$(echo $LINE|awk -F, '{print $2}')
     EMAIL=$(echo $LINE|awk -F, '{print $3}')
-    echo "Sending to $FIRST at $EMAIL"
+    echo "Sending to $FIRST $LAST at $EMAIL"
     echo "From: $FROM" > $TMPDIR/email.txt
     echo "To: $EMAIL" >> $TMPDIR/email.txt
     echo "Subject: $SUBJECT" >> $TMPDIR/email.txt
     echo "" >> $TMPDIR/email.txt
     #echo "Dear $FIRST," >> $TMPDIR/email.txt
-    echo "Dear colleague," >> $TMPDIR/email.txt
-    echo "" >> $TMPDIR/email.txt
     cat $EMAILCONT >> $TMPDIR/email.txt
     cat $TMPDIR/email.txt | ssmtp $EMAIL
-done
+#done
+done < $ADDRS    
 
 echo 'Done'
