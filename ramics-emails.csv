@@ -1,8 +1,6 @@
-,,
 Aameri,Bahar,bahar@cs.toronto.edu
 Abbadini,Marco,marco.abbadini@unimi.it
 Aboul-Hosn,Kamal,kamal@cs.cornell.edu
-Aboul-Hosn,Kamal,kamal@cs.cornell.edu 
 Acclavio,Matteo,macclavio@gmail.com
 Aceto,Luca,luca.aceto@gmail.com
 Aguirre,Nazareno,naguirre@dc.exa.unrc.edu.ar
@@ -47,7 +45,6 @@ Blanco,Nicolas,n.blanco@pgr.bham.ac.uk
 Bodirsky,Manuel,manuel.bodirsky@tu-dresden.de
 Bojanczyk,Mikołaj,bojan@mimuw.edu.pl
 Bolduc,Claude,claude.bolduc@gmail.com
-Bolduc,Claude,claude.bolduc@gmail.com.
 Bonsangue,Marcello,m.m.bonsangue@liacs.leidenuniv.nl
 Bonzio,Stefano,stefano.bonzio@gmail.com
 Bourg,Lorena,lbourg@dc.uba.ar
@@ -56,8 +53,6 @@ Brassel,Bernd,brassel@googlemail.com
 Brink,Chris,chris.brink@newcastle.ac.uk
 Broda,Sabine,sbb@dcc.fc.up.pt
 Brotherston,James,j.brotherston@ucl.ac.uk
-Brunet,Paul,paul.brunet@ens-lyon.org
-Brunet,Paul,Paul.Brunet@ens-lyon.org
 Brunet,Paul,paul.brunet@u-pec.fr
 Brunet,Paul,paul@brunet-zamansky.fr
 Brzozowski,Janusz,brzozo@uwaterloo.ca
@@ -67,7 +62,6 @@ Bulatov,Andrei,abulatov@sfu.ca
 Burrieza,Alfredo,burrieza@uma.es
 Buszkowski,Wojciech,buszko@amu.edu.pl
 Calk,Cameron,cameron.calk@gmail.com
-Calk,Cameron,ccalk@lix.polytechnique.fr
 Cantone,Domenico,cantone@dmi.unict.it
 Cao,Zining,caozn@nuaa.edu.cn
 Carvalho,Catarina,c.carvalho2@herts.ac.uk
@@ -113,7 +107,6 @@ Doumane,Amina,amina.doumane@ens-lyon.fr
 Douteau,Sylvain,sylvain.douteau@gmail.com
 Droste,Manfred,droste@informatik.uni-leipzig.de
 Dubut,Jérémy,dubutjeremy@gmail.com
-Dubut,Jeremy,dubut@nii.ac.jp
 Dufourd,Jean-François,jfd@unistra.fr
 Düntsch,Ivo,duentsch@brocku.ca
 Duwairi,Rehab,rehab@just.edu.jo
@@ -123,9 +116,7 @@ Edixhoven,Luc,l.j.edixhoven@liacs.leidenuniv.nl
 Eklund,Patrik,peklund@cs.umu.se
 Elloumi,Samir,elloumi.samir@gmail.com
 Endriss,Ulle,ulle.endriss@uva.nl
-Erlich,Enzo,enzo.erlich@ens-rennes.fr
 Ertel,Jessica,ertel-jessica@hotmail.de
-Fahrenberg,Martin,ma.fahrenberg@gmail.com
 Fahrenberg,Uli,uli@lrde.epita.fr
 Fahrenberg,Uli,ulrich.fahrenberg@polytechnique.edu
 Fajstrup,Lisbeth,fajstrup@math.aau.dk
@@ -137,8 +128,6 @@ F Nourani,Cyrus,cyrusfn@alum.mit.edu
 Fortin,Marie,marie.fortin@irif.fr
 Foster,Simon,s.foster@dcs.shef.ac.uk
 Foster,Simon,simon.foster@york.ac.uk
-Fournillon,Paul,paul.fournillon@epita.fr
-Fragnaud,Timothée,timothee.fragnaud@epita.fr
 Fraigniaud,Pierre,pierre.fraigniaud@irif.fr
 Franco,Giuditta,giuditta.franco@univr.it
 Frappier,Marc,marc.frappier@usherbrooke.ca
@@ -158,7 +147,6 @@ Gardner,Philippa,pg@doc.ic.ac.uk
 Garlan,David,garlan@cs.cmu.edu
 Gastin,Paul,gastin@lmf.cnrs.fr
 Gattinger,Malvin,malvin@w4eg.eu
-Gaubert,Stephane,Stephane.Gaubert@inria.fr
 Gaubert,Stéphane,stephane.gaubert@inria.fr
 Gehrke,Mai,mgehrke@liafa.univ-paris-diderot.fr
 Ghardallou,Wided,wided.ghardallou@gmail.com
@@ -175,7 +163,6 @@ Gomes,Victor,victorgomes@google.com
 Gonzalia,Carlos,cjg@cs.uns.edu.ar
 Goranko,Valentin,valentin.goranko@philosophy.su.se
 Goranko,Valentin,vfgo@imm.dtu.dk
-Goubault,Eric,goubault@lix.polytechnique.fr
 Goubault,Éric,goubault@lix.polytechnique.fr
 Goubault-Larrecq,Jean,goubault@lsv.ens-cachan.fr
 Gouveia,Maria João,mjgouveia@fc.ul.pt
@@ -195,8 +182,6 @@ Hahmann,Torsten,torsten@cs.toronto.edu
 Hájek,Petr,hajek@cs.cas.cz
 Haucourt,Emmanuel,emmanuel.haucourt@polytechnique.edu
 Hayes,Ian,ian.hayes@itee.uq.edu.au
-Hayes,Ian,Ian.Hayes@itee.uq.edu.au
-Hay-kergrohenn,Quentin,quentin.hay-kergrohenn@epita.fr
 Helgesson,Robert,rah@cs.umu.se
 Hélouët,Loïc,loic.helouet@inria.fr
 Herbelin,Hugo,Hugo.Herbelin@inria.fr
@@ -205,7 +190,6 @@ Hirsch,Robin,r.hirsch@ucl.ac.uk
 Hoare,Tony,thoare@microsoft.com
 Hoare,Tony,t-tohoar@outlook.com
 Hodkinson,Ian,i.hodkinson@imperial.ac.uk
-Hoefner,Peter,peter@hoefner-online.de
 Hoffmann,Thorsten,tho@informatik.uni-kiel.de
 Höfner,Peter,Peter.Hoefner@anu.edu.au
 Höfner,Peter,peter.hoefner@data61.csiro.au
@@ -214,11 +198,10 @@ Höfner,Peter,peter@hoefner-online.de
 Honda,Kazumasa,honda@i.kyushu-u.ac.jp
 Hopkins,Mark,federation2005@netzero.net
 Horne,Ross,Ross.horne@gmail.com
-Huerta y Munive,Jonathan,jonjulian23@gmail.com
+Huerta y Munive,Jonathan Julián,jonjulian23@gmail.com
 Huerta y Munive,Jonathan Julián,jjhuertaymunive1@sheffield.ac.uk
 Huet,Gérard,gerard.huet@inria.fr
 Hustadt,Ullrich,u.hustadt@csc.liv.ac.uk
-Hustadt,Ullrich,U.Hustadt@csc.liv.ac.uk
 i.hodkinson@imperial.ac.uk,Ian.Hodkinson,
 Ishida,Toshikazu,tishida@ip.kyusan-u.ac.jp
 Ismail,Sahar,saharisl@yahoo.com
@@ -262,7 +245,6 @@ Koutny,Maciej,maciej.koutny@newcastle.ac.uk
 Kowalski,Tomasz,t.kowalski@latrobe.edu.au
 Kozen,Dexter,kozen@cs.cornell.edu
 Krivulin,Nikolai,nkk@math.spbu.ru
-Krivulin,Nilolai,nkk@math.spbu.ru
 Krokhin,Andrei,andrei.krokhin@durham.ac.uk
 Ktari,Béchir,bechir.ktari@ift.ulaval.ca
 Kurucz,Agi,agi.kurucz@kcl.ac.uk
@@ -287,13 +269,12 @@ Lopez Pombo,Carlos,clpombo@dc.uba.ar
 MacCaull,Wendy,wmaccaul@stfx.ca
 Macedo,Nuno,nfmmacedo@di.uminho.pt
 Maddux,Roger,maddux@iastate.edu
-Maddux,Roger,maddux@iastate.edu 
 Madeira,Alexandre,madeira@ua.pt
 Maibaum,Tom,tom@maibaum.org
 Maity,Anuran,anuran.maity@gmail.com
 Mamouras,Konstantinos,kmamouras@gmail.com
 Manca,Vincenzo,vincenzo.manca@univr.it
-Marchand,Hervé,herve.marchand@inria.fr,
+Marchand,Hervé,herve.marchand@inria.fr
 Markey,Nicolas,nicolas.markey@irisa.fr
 Martin,Clare,cemartin@brookes.ac.uk
 Maruyama,Yoshihiro,yoshihiro.maruyama@anu.edu.au
@@ -329,7 +310,6 @@ Moshier,M. Andrew,moshier@chapman.edu
 Müller,Martin,m.e.mueller@acm.org
 Mu,Shin-Cheng,scm@iis.sinica.edu.tw
 Nachtegael,Mike,mike.nachtegael@ugent.be
-Nachtegael,Mike,Mike.Nachtegael@UGent.be
 Nakamura,Yoshiki,nakamura.y.ay@m.titech.ac.jp
 Nakamura,Yoshiki,nakamura.yoshiki.ny@gmail.com
 Natarajan,Raja,raja@tifr.res.in
@@ -359,14 +339,13 @@ Paulson,Larry,lp15@cam.ac.uk
 Pereira,David,dmrpe@isep.ipp.pt
 Pereira,David,dpereira@ncc.up.pt
 Petrişan,Daniela,petrisan@irif.fr
-Petrişan,Daniela,petrisan@liafa.univ-paris-diderot.fr
 Pinchinat,Sophie,sophie.pinchinat@irisa.fr
 Pin,Jean-Eric,jean-eric.pin@irif.fr
 Policriti,Alberto,alberto.policriti@uniud.it
 Ponse,Alban,a.ponse@uva.nl
 Pous,Damien,damien.pous@ens-lyon.fr
 Pra Baldi,Michele,m.prabaldi@gmail.com
- Preoteasa,Viorel, viorel.preoteasa@aalto.fi
+Preoteasa,Viorel,viorel.preoteasa@aalto.fi
 Preoteasa,Viorel,viorel.preoteasa@gmail.com
 Puca,Caterina,caterina.puca@quantinuum.com
 Puerto,Adrian,a.puertoaubel@campus.unimib.it
@@ -378,7 +357,6 @@ Rajsbaum,Sergio,sergio.rajsbaum@gmail.com
 Raussen,Martin,raussen@math.aau.dk
 Razet,Benoît,benoit.razet@gmail.com
 R. Cerioli,Marcia,cerioli@cos.ufrj.br
-Regaud,Gaëtan,gaetan.regaud@ens-rennes.fr
 Reis,Rogério,rvr@dcc.fc.up.pt
 Renz,Jochen,jochen.renz@anu.edu.au
 Rewitzky,Ingrid,rewitzky@sun.ac.za
@@ -394,13 +372,11 @@ Rossi,Gianfranco,gianfranco.rossi@unipr.it
 Rot,Jurriaan,jrot@cs.ru.nl
 Roy,Bodhayan,bodhayan.roy@gmail.com
 Runciman,Colin,colin.runciman@cs.york.ac.uk
-Runciman,Colin,Colin.Runciman@cs.york.ac.uk
 Rusinowska,Agnieszka,agnieszka.rusinowska@univ-paris1.fr
 Rusinowska,Agnieszka,Rusinowska@gate.cnrs.fr
 Rutten,Jan,jjmmrutten@gmail.com
 Rydeheard,David,david.e.rydeheard@manchester.ac.uk
 Saari,Donald,dsaari@uci.edu
-Saari,Donald,dsaari@uci.edu 
 Sadrzadeh,Mehrnoosh,mehrnoosh.sadrzadeh@qmul.ac.uk
 Sain,Ildiko,sain@renyi.hu
 Saleh,Mohamed,mohd.saleh@qu.edu.qa
@@ -410,7 +386,6 @@ Sanders,Jeff,jeff@iist.unu.edu
 Sanders,Jeff,jsanders@aims.ac.za
 Sano,Katsuhiko,v-sano@let.hokudai.ac.jp
 Santocanale,Luigi,luigi.santocanale@lif.univ-mrs.fr
-Santocanale,Luigi,luigi.santocanale@lif.univ.mrs.fr
 Santocanale,Luigi,luigi.santocanale@lis-lab.fr
 Santos Teixeira,Milene,milene.tsi@gmail.com
 Schäfer,Steven,schaefer@ps.uni-saarland.de
@@ -420,9 +395,7 @@ Schmidt,Gunther,Gunther.Schmidt@unibw.com
 Schmidt,Gunther,prof.gunther.schmidt@t-online.de
 Schmidt,Renate,renate.schmidt@manchester.ac.uk
 Schmidt,Renate,schmidt@cs.man.ac.uk
-Schmidt@schmidt@cs.man.ac.uk,Renate,
 Schoor,Henning,henning.schnoor@email.uni-kiel.de
-Schoor,Henning,henning.schnoor@email.uni-kiel.de 
 Shanshan,Wang,wssthree@163.com
 Shidama,Yasunari,shidama@cs.shinshu-u.ac.jp
 Siddavaatam,Prathap,prathap.siddavaatam@ryerson.ca
@@ -486,12 +459,12 @@ van Alten,Clint,cvalten@maths.wits.ac.za
 van Benthem,Johan,johan.vanbenthem@uva.nl
 van der Woude,Jaap,jaap.vanderwoude@ou.nl
 van der Woude,Jaap,j.c.s.p.v.d.woude@tue.nl
-vanGlabbeek,Rob,rvg@cs.stanford.edu
-vanGool,Sam,vangool@irif.fr
+van Glabbeek,Rob,rvg@cs.stanford.edu
+van Gool,Sam,vangool@irif.fr
 van Staden,Stephan,s.vanstaden@cs.ucl.ac.uk
 Venema,Yde,y.venema@uva.nl
 Viana,Petrucio,petrucio_viana@id.uff.br
-Villard,James ,j.villard@imperial.ac.uk
+Villard,James,j.villard@imperial.ac.uk
 Wang,Shuling,wangsl@ios.ac.cn
 Wang,Zhongye,zhongye.wang@yale.edu
 Wan,Shuping,shupingwan@163.com
@@ -508,7 +481,6 @@ Yasuda,Koji,r201970127mt@jindai.jp
 Ye,Kangfeng,kangfeng.ye@york.ac.uk
 You,Peixin,peixin.you@polytechnique.edu
 You,Peixin,peixin.you@yale.edu
-Zeilberger,Noam,noam.zeilberger@lix.polytechnique.fr
 Zeilberger,Noam,noam.zeilberger@polytechnique.edu
 Zelend,Andreas,zelend@informatik.uni-augsburg.de
 Zeng,William,zeng.will@gmail.com
