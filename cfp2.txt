@@ -54,5 +54,8 @@ as part of Springer LNCS.  As for earlier RAMiCS conferences, we
 intend to publish a journal special issue with revised and extended
 versions of a selection of the best papers.
 
+Submission is via EasyChair at
+
+    https://easychair.org/conferences/?conf=ramics2024
 
 For more information, see https://ramics-conf.github.io/2024/
