@@ -2,6 +2,7 @@
 
 ADDRS=emails-test.csv
 #ADDRS=ramics-emails.csv
+#ADDRS=/tmp/emails-1.csv
 
 FROM=fahrenberg@gmail.com
 
@@ -29,6 +30,7 @@ while read -r LINE; do
     #echo "Dear $FIRST," >> $TMPDIR/email.txt
     cat $EMAILCONT >> $TMPDIR/email.txt
     cat $TMPDIR/email.txt | ssmtp $EMAIL
+    sleep 1 #otherwise, too fast for gmail :)
 #done
 done < $ADDRS    
 
