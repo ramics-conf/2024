@@ -28,3 +28,10 @@ Marijana Lazić		F	https://www.cs.cit.tum.de/tcs/personen/marijana-lazic/
 Sandra Kiefer		F	https://www.mpi-sws.org/people/skiefer/
 
 
+Cat 4: AiML
+
+Helle Hansen		F	https://www.rug.nl/staff/h.h.hansen/
+
+Revantha Ramanayake	M	https://www.rug.nl/staff/d.r.s.ramanayake/
+
+Alexandru Baltag	M	https://sites.google.com/site/thealexandrubaltagsite/research/research-interests
