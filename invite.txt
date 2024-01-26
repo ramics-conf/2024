@@ -1,6 +1,6 @@
 Cat 1: RAMiCS
 
-Sergey Goncharov	M
+Sergey Goncharov	M	https://www8.cs.fau.de/people/sergey-goncharov/
 
 Anupam Das		M
 
