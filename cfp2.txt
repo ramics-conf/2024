@@ -15,14 +15,15 @@ see fit.
 
 IMPORTANT DATES
 
-    Abstract submission: 16 February 2024
-    Paper submission: 23 February 2024
-    Author notification: 4 May 2024
-    Final version due: 1 June 2024
+    Abstract submission (extended): 2 March 2024
+    Paper submission (extended): 9 March 2024
+    Author notification: 11 May 2024
+    Final version due: 10 June 2024
     Conference dates: 19-23 August 2024
 
 INVITED SPEAKERS
 
+    Sergey Goncharov, Friedrich-Alexander University of Erlangen and Nürnberg, Germany
     Tomasz Kowalski, Jagiellonian University in Kraków, Poland
     Sarah Winter, IRIF, Université Paris Cité, France
 
