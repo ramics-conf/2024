@@ -8,7 +8,8 @@ FROM=fahrenberg@gmail.com
 
 EMAILCONT=cfp2.txt
 
-SUBJECT='CfP: Relational and Algebraic Methods in Computer Science, RAMiCS 2024, Prague'
+#SUBJECT='CfP: Relational and Algebraic Methods in Computer Science, RAMiCS 2024, Prague'
+SUBJECT='2nd CfP & Deadline Extension: RAMiCS 2024'
 
 #TMPDIR=$(mktemp -d)
 TMPDIR=/tmp

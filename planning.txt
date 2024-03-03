@@ -26,6 +26,7 @@ T-2m	CfPart
 0504	notifications
 0511	notifications ext
 0525	shepherd deadline
-0601	deadline final versions
-0610	springer proceedings deadline
-
+0601	deadline final versions (paper)
+0610	springer proceedings deadline (paper)
+0622	deadline final versions (online)
+0701	springer proceedings deadline (online)
