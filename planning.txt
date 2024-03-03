@@ -21,12 +21,15 @@ T-2m	CfPart
 --
 
 0216	abstract deadline
-0223	paper deadline
-0309	paper deadline ext
-0504	notifications
-0511	notifications ext
-0525	shepherd deadline
+0223	paper deadline (paper)
+0309	paper deadline ext (paper)
+0323	paper deadline (online)
+0504	notifications (paper)
+0511	notifications ext (paper)
+0525	shepherd deadline (paper)
+0525	notifications (online)
 0601	deadline final versions (paper)
 0610	springer proceedings deadline (paper)
+0615	shepherd deadline (online)
 0622	deadline final versions (online)
 0701	springer proceedings deadline (online)
