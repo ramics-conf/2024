@@ -1,5 +1,12 @@
-Apologies for multiple copies of this email; please distribute as you
-see fit.
+we have decided to extend the deadlines for RAMiCS 2024 once more,
+please see below for an updated CfP.  (Do not hesitate to distribute
+this to your colleages and/or to hang up the poster which you may find
+on the RAMiCS web site.)
+
+Best regards,
+for the PC Chairs,
+Uli Fahrenberg
+
 
                        CALL FOR PAPERS
 
@@ -15,15 +22,15 @@ see fit.
 
 IMPORTANT DATES
 
-    Abstract submission (extended): 2 March 2024
-    Paper submission (extended): 9 March 2024
-    Author notification: 11 May 2024
-    Final version due: 10 June 2024
+    Abstract submission (extended): 16 March 2024
+    Paper submission (extended): 23 March 2024
+    Author notification: 21 May 2024
+    Final version due: 22 June 2024
     Conference dates: 19-23 August 2024
 
 INVITED SPEAKERS
 
-    Sergey Goncharov, Friedrich-Alexander University of Erlangen and Nürnberg, Germany
+    Sergey Goncharov, University of Erlangen and Nürnberg, Germany
     Tomasz Kowalski, Jagiellonian University in Kraków, Poland
     Sarah Winter, IRIF, Université Paris Cité, France
 

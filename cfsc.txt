@@ -1,0 +1,75 @@
+CALL FOR SHORT CONTRIBUTIONS / POSTERS
+
+                    19th International Conference on
+          Relational and Algebraic Methods in Computer Science
+                              RAMiCS 2021
+
+                 2 to 5 November 2021, Marseille, France
+                      https://ramics19.lis-lab.fr/
+
+Additionally to the standard CfP, RAMiCS is also calling for short
+contributions and posters.  We are hence calling for presentations of
+original, unfinished, already published, or otherwise interesting work
+within the topics of the RAMiCS conferences.  The submission can be in
+the form of a poster, an abstract, a paper submitted to or published
+at another conference, etc.  Short contributions will *not* be
+published in the conference proceedings.
+
+IMPORTANT DATES:
+
+  Submission:          29 August 2021
+  Notification:        5 September 2021
+  RAMiCS registration: 12 September 2021
+
+INVITED SPEAKERS:
+
+Marcelo Frias, Instituto Tecnológico de Buenos Aires, Argentina
+Barbara König, Universität Duisburg-Essen, Germany
+Dmitriy Zhuk, Moscow State University, Russia
+
+GENERAL INFORMATION:
+
+Since 1994, the RAMICS conference series has been the main venue for
+research on relation algebras, Kleene algebras and similar algebraic
+formalisms, and their applications as conceptual and methodological
+tools in computer science and beyond.
+
+TOPICS:
+
+We invite short submissions in the general fields of algebras relevant
+to computer science and applications of such algebras. Topics include
+but are not limited to:
+
+* Theory
+  - algebras such as semigroups, residuated lattices, semirings,
+    Kleene algebras, relation algebras and quantales
+  - their connections with program logics and other logics
+  - their use in the theories of automata, concurrency, formal languages,
+    games, networks and programming languages
+  - the development of algebraic, algorithmic, category-theoretic,
+    coalgebraic and proof-theoretic methods for these theories
+  - their formalisation with theorem provers
+
+* Applications
+  - tools and techniques for program correctness, specification and
+    verification
+  - quantitative and qualitative models and semantics of computing
+    systems and processes
+  - algorithm design, automated reasoning, network protocol analysis,
+    social choice, optimisation and control
+  - industrial applications
+ 
+SUBMISSION INSTRUCTIONS:
+
+Please send your short submission as a single pdf file to
+
+  ramics2021@easychair.org
+
+by 29 August 2021.
+
+ORGANIZERS:
+
+Luigi Santocanale, Aix-Marseille University, France
+Uli Fahrenberg, École polytechnique, France
+Mai Gehrke, Université Côte d’Azur, France
+Michael Winter, Brock University, Canada
