@@ -1,31 +1,33 @@
 CALL FOR SHORT CONTRIBUTIONS / POSTERS
 
-                    19th International Conference on
+                    21st International Conference on
           Relational and Algebraic Methods in Computer Science
-                              RAMiCS 2021
+                              RAMiCS 2024
 
-                 2 to 5 November 2021, Marseille, France
-                      https://ramics19.lis-lab.fr/
+              19 to 23 August 2021, Prague, Czech Republic
+                  https://ramics-conf.github.io/2024/
+
 
 Additionally to the standard CfP, RAMiCS is also calling for short
 contributions and posters.  We are hence calling for presentations of
 original, unfinished, already published, or otherwise interesting work
 within the topics of the RAMiCS conferences.  The submission can be in
 the form of a poster, an abstract, a paper submitted to or published
-at another conference, etc.  Short contributions will *not* be
-published in the conference proceedings.
+at another conference, or any other format.  Short contributions will
+*not* be published in the conference proceedings.
 
 IMPORTANT DATES:
 
-  Submission:          29 August 2021
-  Notification:        5 September 2021
-  RAMiCS registration: 12 September 2021
+  Submission:          14 June 2024
+  Notification:        19 June 2024
+  RAMiCS registration: 26 June 2024 (early bird)
+                       26 July 2024 (regular)
 
 INVITED SPEAKERS:
 
-Marcelo Frias, Instituto Tecnológico de Buenos Aires, Argentina
-Barbara König, Universität Duisburg-Essen, Germany
-Dmitriy Zhuk, Moscow State University, Russia
+  Sergey Goncharov, University of Erlangen and Nürnberg, Germany
+  Tomasz Kowalski, Jagiellonian University in Kraków, Poland
+  Sarah Winter, IRIF, Université Paris Cité, France
 
 GENERAL INFORMATION:
 
@@ -65,11 +67,10 @@ Please send your short submission as a single pdf file to
 
   ramics2021@easychair.org
 
-by 29 August 2021.
+by 14 June 2024.
 
 ORGANIZERS:
 
-Luigi Santocanale, Aix-Marseille University, France
-Uli Fahrenberg, École polytechnique, France
-Mai Gehrke, Université Côte d’Azur, France
-Michael Winter, Brock University, Canada
+Uli Fahrenberg, LRE, EPITA Rennes, France
+Wesley Fussner, Czech Academy of Sciences
+Roland Glück, German Aerospace Center, Augsburg
