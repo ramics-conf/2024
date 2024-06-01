@@ -4,7 +4,7 @@ CALL FOR SHORT CONTRIBUTIONS / POSTERS
           Relational and Algebraic Methods in Computer Science
                               RAMiCS 2024
 
-              19 to 23 August 2021, Prague, Czech Republic
+              19 to 23 August 2024, Prague, Czech Republic
                   https://ramics-conf.github.io/2024/
 
 
