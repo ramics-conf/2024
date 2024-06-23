@@ -1,0 +1,295 @@
+This is pdfTeX, Version 3.141592653-2.6-1.40.25 (MiKTeX 23.5) (preloaded format=pdflatex 2023.9.22)  8 FEB 2024 11:21
+entering extended mode
+ restricted \write18 enabled.
+ %&-line parsing enabled.
+**./poster.tex
+(poster.tex
+LaTeX2e <2023-06-01> patch level 1
+L3 programming layer <2023-08-29>
+(C:\Users\glue_ro\AppData\Local\Programs\MiKTeX\tex/latex/base\article.cls
+Document Class: article 2023/05/17 v1.4n Standard LaTeX document class
+(C:\Users\glue_ro\AppData\Local\Programs\MiKTeX\tex/latex/base\size12.clo
+File: size12.clo 2023/05/17 v1.4n Standard LaTeX file (size option)
+)
+\c@part=\count185
+\c@section=\count186
+\c@subsection=\count187
+\c@subsubsection=\count188
+\c@paragraph=\count189
+\c@subparagraph=\count190
+\c@figure=\count191
+\c@table=\count192
+\abovecaptionskip=\skip48
+\belowcaptionskip=\skip49
+\bibindent=\dimen140
+)
+(C:\Users\glue_ro\AppData\Local\Programs\MiKTeX\tex/latex/geometry\geometry.sty
+Package: geometry 2020/01/02 v5.9 Page Geometry
+(C:\Users\glue_ro\AppData\Local\Programs\MiKTeX\tex/latex/graphics\keyval.sty
+Package: keyval 2022/05/29 v1.15 key=value parser (DPC)
+\KV@toks@=\toks17
+)
+(C:\Users\glue_ro\AppData\Local\Programs\MiKTeX\tex/generic/iftex\ifvtex.sty
+Package: ifvtex 2019/10/25 v1.7 ifvtex legacy package. Use iftex instead.
+
+(C:\Users\glue_ro\AppData\Local\Programs\MiKTeX\tex/generic/iftex\iftex.sty
+Package: iftex 2022/02/03 v1.0f TeX engine tests
+))
+\Gm@cnth=\count193
+\Gm@cntv=\count194
+\c@Gm@tempcnt=\count195
+\Gm@bindingoffset=\dimen141
+\Gm@wd@mp=\dimen142
+\Gm@odd@mp=\dimen143
+\Gm@even@mp=\dimen144
+\Gm@layoutwidth=\dimen145
+\Gm@layoutheight=\dimen146
+\Gm@layouthoffset=\dimen147
+\Gm@layoutvoffset=\dimen148
+\Gm@dimlist=\toks18
+
+(C:\Users\glue_ro\AppData\Local\Programs\MiKTeX\tex/latex/geometry\geometry.cfg
+))
+(C:\Users\glue_ro\AppData\Local\Programs\MiKTeX\tex/latex/enumitem\enumitem.sty
+Package: enumitem 2019/06/20 v3.9 Customized lists
+\labelindent=\skip50
+\enit@outerparindent=\dimen149
+\enit@toks=\toks19
+\enit@inbox=\box51
+\enit@count@id=\count196
+\enitdp@description=\count197
+) (C:\Users\glue_ro\AppData\Local\Programs\MiKTeX\tex/latex/base\fix-cm.sty
+Package: fix-cm 2020/11/24 v1.1t fixes to LaTeX
+
+(C:\Users\glue_ro\AppData\Local\Programs\MiKTeX\tex/latex/base\ts1enc.def
+File: ts1enc.def 2001/06/05 v3.0e (jk/car/fm) Standard LaTeX file
+LaTeX Font Info:    Redeclaring font encoding TS1 on input line 47.
+))
+(C:\Users\glue_ro\AppData\Local\Programs\MiKTeX\tex/latex/hyphenat\hyphenat.sty
+Package: hyphenat 2009/09/02 v2.3c hyphenation utilities
+\langwohyphens=\language79
+LaTeX Info: Redefining \_ on input line 43.
+)
+(C:\Users\glue_ro\AppData\Local\Programs\MiKTeX\tex/latex/graphics\graphicx.sty
+Package: graphicx 2021/09/16 v1.2d Enhanced LaTeX Graphics (DPC,SPQR)
+
+(C:\Users\glue_ro\AppData\Local\Programs\MiKTeX\tex/latex/graphics\graphics.sty
+Package: graphics 2022/03/10 v1.4e Standard LaTeX Graphics (DPC,SPQR)
+(C:\Users\glue_ro\AppData\Local\Programs\MiKTeX\tex/latex/graphics\trig.sty
+Package: trig 2021/08/11 v1.11 sin cos tan (DPC)
+)
+(C:\Users\glue_ro\AppData\Local\Programs\MiKTeX\tex/latex/graphics-cfg\graphics
+.cfg
+File: graphics.cfg 2016/06/04 v1.11 sample graphics configuration
+)
+Package graphics Info: Driver file: pdftex.def on input line 107.
+
+(C:\Users\glue_ro\AppData\Local\Programs\MiKTeX\tex/latex/graphics-def\pdftex.d
+ef
+File: pdftex.def 2022/09/22 v1.2b Graphics/color driver for pdftex
+))
+\Gin@req@height=\dimen150
+\Gin@req@width=\dimen151
+)
+(C:\Users\glue_ro\AppData\Local\Programs\MiKTeX\tex/latex/l3backend\l3backend-p
+dftex.def
+File: l3backend-pdftex.def 2023-04-19 L3 backend support: PDF output (pdfTeX)
+\l__color_backend_stack_int=\count198
+\l__pdf_internal_box=\box52
+)
+
+LaTeX Warning: Unused global option(s):
+    [a3paper].
+
+(poster.aux)
+\openout1 = `poster.aux'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 16.
+LaTeX Font Info:    ... okay on input line 16.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 16.
+LaTeX Font Info:    ... okay on input line 16.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 16.
+LaTeX Font Info:    ... okay on input line 16.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 16.
+LaTeX Font Info:    ... okay on input line 16.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 16.
+LaTeX Font Info:    ... okay on input line 16.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 16.
+LaTeX Font Info:    ... okay on input line 16.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 16.
+LaTeX Font Info:    ... okay on input line 16.
+
+*geometry* driver: auto-detecting
+*geometry* detected driver: pdftex
+*geometry* verbose mode - [ preamble ] result:
+* driver: pdftex
+* paper: a3paper
+* layout: <same size as paper>
+* layoutoffset:(h,v)=(0.0pt,0.0pt)
+* modes: 
+* h-part:(L,W,R)=(42.25493pt, 760.53699pt, 42.25493pt)
+* v-part:(T,H,B)=(47.80353pt, 1075.50687pt, 71.70535pt)
+* \paperwidth=845.04684pt
+* \paperheight=1195.01575pt
+* \textwidth=760.53699pt
+* \textheight=1075.50687pt
+* \oddsidemargin=-30.01506pt
+* \evensidemargin=-30.01506pt
+* \topmargin=-61.46646pt
+* \headheight=12.0pt
+* \headsep=25.0pt
+* \topskip=12.0pt
+* \footskip=30.0pt
+* \marginparwidth=44.0pt
+* \marginparsep=10.0pt
+* \columnsep=10.0pt
+* \skip\footins=10.8pt plus 4.0pt minus 2.0pt
+* \hoffset=0.0pt
+* \voffset=0.0pt
+* \mag=1000
+* \@twocolumnfalse
+* \@twosidefalse
+* \@mparswitchfalse
+* \@reversemarginfalse
+* (1in=72.27pt=25.4mm, 1cm=28.453pt)
+
+
+(C:\Users\glue_ro\AppData\Local\Programs\MiKTeX\tex/context/base/mkii\supp-pdf.
+mkii
+[Loading MPS to PDF converter (version 2006.09.02).]
+\scratchcounter=\count199
+\scratchdimen=\dimen152
+\scratchbox=\box53
+\nofMPsegments=\count266
+\nofMParguments=\count267
+\everyMPshowfont=\toks20
+\MPscratchCnt=\count268
+\MPscratchDim=\dimen153
+\MPnumerator=\count269
+\makeMPintoPDFobject=\count270
+\everyMPtoPDFconversion=\toks21
+)
+(C:\Users\glue_ro\AppData\Local\Programs\MiKTeX\tex/latex/epstopdf-pkg\epstopdf
+-base.sty
+Package: epstopdf-base 2020-01-24 v2.11 Base part for package epstopdf
+Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 4
+85.
+
+(C:\Users\glue_ro\AppData\Local\Programs\MiKTeX\tex/latex/00miktex\epstopdf-sys
+.cfg
+File: epstopdf-sys.cfg 2021/03/18 v2.0 Configuration of epstopdf for MiKTeX
+))
+<prague.jpg, id=1, 246.6816pt x 97.5645pt>
+File: prague.jpg Graphic file (type jpg)
+<use prague.jpg>
+Package pdftex.def Info: prague.jpg  used on input line 40.
+(pdftex.def)             Requested size: 532.37357pt x 167.27063pt.
+
+Underfull \hbox (badness 1648) in paragraph at lines 54--62
+\OT1/cmr/m/n/16 quan-tales and other al-ge-bras; their con-nec-tions
+ []
+
+
+Underfull \hbox (badness 5548) in paragraph at lines 54--62
+\OT1/cmr/m/n/16 lan-guages, games, net-works and pro-gram-ming
+ []
+
+
+Underfull \hbox (badness 5924) in paragraph at lines 65--70
+[]\OT1/cmr/m/n/16 Applications in-clude tools and tech-niques for
+ []
+
+
+Underfull \hbox (badness 1655) in paragraph at lines 65--70
+\OT1/cmr/m/n/16 au-to-mated rea-son-ing, net-work pro-to-col anal-y-sis,
+ []
+
+<kowalski2.jpg, id=3, 200.75pt x 301.125pt>
+File: kowalski2.jpg Graphic file (type jpg)
+<use kowalski2.jpg>
+Package pdftex.def Info: kowalski2.jpg  used on input line 110.
+(pdftex.def)             Requested size: 65.40405pt x 88.29716pt.
+LaTeX Font Info:    Calculating math sizes for size <16> on input line 111.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <16> on input line 111.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <11.19995> on input line 111.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <8> on input line 111.
+<winter.jpg, id=5, 803.0pt x 1104.125pt>
+File: winter.jpg Graphic file (type jpg)
+<use winter.jpg>
+Package pdftex.def Info: winter.jpg  used on input line 139.
+(pdftex.def)             Requested size: 65.40405pt x 89.91547pt.
+<goncharov2.jpg, id=7, 1129.018pt x 1245.8545pt>
+File: goncharov2.jpg Graphic file (type jpg)
+<use goncharov2.jpg>
+Package pdftex.def Info: goncharov2.jpg  used on input line 151.
+(pdftex.def)             Requested size: 65.40405pt x 73.13217pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 192--216
+\OT1/cmr/m/n/16 Caicedo Fer-rer, Willem Con-radie, Jules
+ []
+
+
+Underfull \hbox (badness 5091) in paragraph at lines 192--216
+\OT1/cmr/m/n/16 De-shar-nais, J^^Ser^^Semy Dubut, Marie Fortin,
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 192--216
+\OT1/cmr/m/n/16 Guttmann, Robin Hirsch, Pe-ter H^^?ofner,
+ []
+
+
+Underfull \hbox (badness 2735) in paragraph at lines 192--216
+\OT1/cmr/m/n/16 Se-bas-ti-aan Joosten, Wol-fram Kahl, To-bias
+ []
+
+
+Underfull \hbox (badness 1895) in paragraph at lines 192--216
+\OT1/cmr/m/n/16 Kapp^^Se, Roger Mad-dux, Dale Miller, Luigi
+ []
+
+
+Underfull \hbox (badness 1152) in paragraph at lines 192--216
+\OT1/cmr/m/n/16 San-to-canale, Ana Sokolova, Ji^^Tri Srba, Sara
+ []
+
+
+Underfull \hbox (badness 1895) in paragraph at lines 192--216
+\OT1/cmr/m/n/16 Ugolini, Jana Wage-maker, Michael Win-ter,
+ []
+
+
+Overfull \hbox (2.48018pt too wide) in paragraph at lines 219--220
+[]|  \OT1/cmr/m/n/30 https://ramics-conf.github.io/2024/ 
+ []
+
+[1
+
+{C:/Users/glue_ro/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map} <./prague.j
+pg> <./kowalski2.jpg> <./winter.jpg> <./goncharov2.jpg>] (poster.aux)
+ ***********
+LaTeX2e <2023-06-01> patch level 1
+L3 programming layer <2023-08-29>
+ ***********
+ ) 
+Here is how much of TeX's memory you used:
+ 2436 strings out of 475247
+ 43144 string characters out of 5756848
+ 1929801 words of memory out of 5000000
+ 23976 multiletter control sequences out of 15000+600000
+ 562918 words of font info for 52 fonts, out of 8000000 for 9000
+ 1141 hyphenation exceptions out of 8191
+ 57i,9n,65p,233b,297s stack positions out of 10000i,1000n,20000p,200000b,200000s
+<C:/Users/glue_ro/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/c
+m/cmbx12.pfb><C:/Users/glue_ro/AppData/Local/Programs/MiKTeX/fonts/type1/public
+/amsfonts/cm/cmr12.pfb><C:/Users/glue_ro/AppData/Local/Programs/MiKTeX/fonts/ty
+pe1/public/amsfonts/cm/cmr17.pfb>
+Output written on poster.pdf (1 page, 4529201 bytes).
+PDF statistics:
+ 33 PDF objects out of 1000 (max. 8388607)
+ 0 named destinations out of 1000 (max. 500000)
+ 45 words of extra memory for PDF output out of 10000 (max. 10000000)
+

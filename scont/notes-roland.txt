@@ -1,0 +1,9 @@
+01-Fussner-Santschi: I am not an expert in that field, but it seems to connect previous work also published at RAMiCS so I would accept it.
+02-Fahrenberg: This is also work in the scope of RAMiCS, also continuing previous work. I would give the author the opportunity to present his ideas in a short talk.
+03-Jankovec: Here I can not get the whole idea due to the shortness of the abstract (and due to my missing expertise in this field) but I would trust the author that he will give an interesting talk (although the topic seems rather theoretical).
+04-Santschi: Personally, I would be very interested in the talk about this short note since it also covers complexity and computability theory.
+05-Ledent: In my eyes, this is also an interesting contribution, with applications to parallel/distributed computing.
+06-Ternovska: Since this is a (slight) reject of a regular submission and we encouraged all authors of rejections to present their work as a short talk I would recommend to accept the submission. However, I would point out that this is for the "short" track whereas the submission is not "short".
+07-Widemann: Here I am a little bit baffled that there is no relation algebraic approach to control flow graphs. However, I didn't check all references and didn't have the time to search for such an approach so I would also accept it as a short talk.
+08-Guallart: I am not sure how deep the results will be (at a first glance, one could be tempted to conjecture that all results follow from simple linear algebra), however, the results should be correct, so why not accept?
+09-Jaoua: The author extended his work from traditional relations to the fuzzy area. This is an expectable step but nevertheless worth attention so let's accept also this paper.
