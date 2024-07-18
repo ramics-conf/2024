@@ -6,10 +6,11 @@ ADDRS=private/ramics-emails.csv
 
 FROM=fahrenberg@gmail.com
 
-EMAILCONT=cfp3.txt
+EMAILCONT=cfsc.txt
 
 #SUBJECT='CfP: Relational and Algebraic Methods in Computer Science, RAMiCS 2024, Prague'
-SUBJECT='3rd CfP & Deadline Extension: RAMiCS 2024'
+#SUBJECT='3rd CfP & Deadline Extension: RAMiCS 2024'
+SUBJECT='Call for short contributions: RAMiCS 2024'
 
 #TMPDIR=$(mktemp -d)
 TMPDIR=/tmp
@@ -28,7 +29,7 @@ while read -r LINE; do
     echo "To: $EMAIL" >> $TMPDIR/email.txt
     echo "Subject: $SUBJECT" >> $TMPDIR/email.txt
     echo "" >> $TMPDIR/email.txt
-    echo "Dear $FIRST $LAST," >> $TMPDIR/email.txt
+    #echo "Dear $FIRST $LAST," >> $TMPDIR/email.txt
     echo "" >> $TMPDIR/email.txt
     cat $EMAILCONT >> $TMPDIR/email.txt
     cat $TMPDIR/email.txt | ssmtp $EMAIL
