@@ -22,7 +22,7 @@ The Fundamenta Informaticae journal has kindly agreed to publish a
 Special Issue devoted to the themes of the RAMiCS conferences. This
 follows up on RAMiCS 2024 which was held in Prague, collocated with
 AiML, in August. We are calling for contributions based on the
-presentations at RAMiCS 2024, but the Special Issue is open to papers
+presentations at RAMiCS 2024, but the special issue is open to papers
 which are related to the themes of the conference without having been
 presented at RAMiCS 2024.
 
@@ -43,10 +43,21 @@ optimisation and control.
 
 We are calling for submission of original work not published or under
 review for publication elsewhere. The submission may or may not be
-based on a previous contribution to RAMiCS 2024. The projected
-deadline is 15 April 2025, but we would appreciate if you could
-announce your intention to submit a paper as soon as possible. We
-intend to publish the Special Issue by April 2027.
+based on a previous contribution to RAMiCS 2024.  All articles
+submitted to this special issue will undergo the usual rigorous
+reviewing process of Fundamenta Informaticae, which will be
+coordinated by the three guest editors Uli Fahrenberg, Wesley Fussner,
+and Roland Glück.
+
+The projected deadline for the special issue is 15 April 2025, but we
+would appreciate if you could announce your intention to submit a
+paper as soon as possible. We intend to publish the special issue by
+April 2027. Fundamenta Informaticae is a "diamond" open access
+journal: published papers are accessible without cost, there are no
+publication fees, and authors retain the rights to their work. For
+more information see
+
+		https://fi.episciences.org/
 
 SPECIAL ISSUE GUEST EDITORS
 
