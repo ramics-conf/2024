@@ -61,6 +61,7 @@ more information see
 
 SPECIAL ISSUE GUEST EDITORS
 
-   Uli Fahrenberg, EPITA, Paris, France
-   Wesley Fussner, Czech Academy of Sciences, Prague, Czechia
+   Uli Fahrenberg, EPITA Rennes, France
+   Wesley Fussner, Institute of Computer Science of the Czech Academy of
+   	  	   Sciences, Prague, Czechia
    Roland Glück, German Aerospace Center, Augsburg, Germany
