@@ -1,0 +1,55 @@
+Subject:
+Special Issue Fundamenta Informaticae: Relational and Algebraic Methods in Computer Science
+
+
+Apologies for multiple copies of this email; please distribute as you
+see fit.
+
+                   CALL FOR CONTRIBUTIONS
+
+		  Fundamenta  Informaticae
+		      Special Issue on
+    Relational and Algebraic Methods in Computer Science
+                         Open  Call
+
+
+Since 1994, the RAMiCS conference series has been the main venue for
+research on relation algebras, Kleene algebras and similar algebraic
+formalisms, and their applications as conceptual and methodological
+tools in computer science and beyond.
+
+The Fundamenta Informaticae journal has kindly agreed to publish a
+Special Issue devoted to the themes of the RAMiCS conferences. This
+follows up on RAMiCS 2024 which was held in Prague, collocated with
+AiML, in August. We are calling for contributions based on the
+presentations at RAMiCS 2024, but the Special Issue is open to papers
+which are related to the themes of the conference without having been
+presented at RAMiCS 2024.
+
+Theoretical aspects of RAMiCS include semigroups, residuated lattices,
+semirings, Kleene algebras, relation algebras, quantales and other
+algebras; their connections with program logics and other logics;
+their use in the theories of automata, concurrency, formal languages,
+games, networks and programming languages; the development of
+algebraic, algorithmic, category-theoretic, coalgebraic and proof-
+theoretic methods for these theories; their formalisation with theorem
+provers.
+
+Applications include tools and techniques for program correctness,
+specification and verification; quantitative and qualitative models
+and semantics of computing systems and processes; algorithm design,
+automated reasoning, network protocol analysis, social choice,
+optimisation and control.
+
+We are calling for submission of original work not published or under
+review for publication elsewhere. The submission may or may not be
+based on a previous contribution to RAMiCS 2024. The projected
+deadline is 15 April 2025, but we would appreciate if you could
+announce your intention to submit a paper as soon as possible. We
+intend to publish the Special Issue by April 2027.
+
+SPECIAL ISSUE GUEST EDITORS
+
+   Uli Fahrenberg, EPITA, Paris, France
+   Wesley Fussner, Czech Academy of Sciences, Prague, Czechia
+   Roland Glück, German Aerospace Center, Augsburg, Germany
