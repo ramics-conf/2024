@@ -2,8 +2,8 @@ Subject:
 Special Issue Fundamenta Informaticae: Relational and Algebraic Methods in Computer Science
 
 
-Apologies for multiple copies of this email; please distribute as you
-see fit.
+Apologies should you receive multiple copies of this email; please
+distribute as you see fit.
 
                    CALL FOR CONTRIBUTIONS
 
@@ -43,7 +43,7 @@ optimisation and control.
 
 We are calling for submission of original work not published or under
 review for publication elsewhere. The submission may or may not be
-based on a previous contribution to RAMiCS 2024.  All articles
+based on a previous contribution to RAMiCS 2024. All articles
 submitted to this special issue will undergo the usual rigorous
 reviewing process of Fundamenta Informaticae, which will be
 coordinated by the three guest editors Uli Fahrenberg, Wesley Fussner,
@@ -59,9 +59,14 @@ more information see
 
 		https://fi.episciences.org/
 
+Please contact one of the guest editors to announce your intention to
+submit a paper:
+
 SPECIAL ISSUE GUEST EDITORS
 
    Uli Fahrenberg, EPITA Rennes, France
+                                                    uli.fahrenberg@epita.fr
    Wesley Fussner, Institute of Computer Science of the Czech Academy of
-   	  	   Sciences, Prague, Czechia
+   	  	   Sciences, Prague, Czechia              fussner@cs.cas.cz
    Roland Glück, German Aerospace Center, Augsburg, Germany
+                                                       Roland.Glueck@dlr.de
