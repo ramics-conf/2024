@@ -1,0 +1,40 @@
+this email reaches you as the author of a submission to the RAMiCS
+2024 conference. The Fundamenta Informaticae journal has kindly agreed
+to publish a Special Issue devoted to the themes of the RAMiCS
+conferences, and we would like to invite you to contribute to the
+issue with a paper.
+
+This is an open Call for Papers, so the special issue is open to
+papers which are related to the themes of RAMiCS without having been
+presented at RAMiCS 2024. We encourage you to forward this email to
+colleagues who might also be interested. All articles submitted to the
+special issue will undergo the usual rigorous reviewing process of
+Fundamenta Informaticae.
+
+Your contribution to the RAMiCS Special Issue may be based on your
+RAMiCS 2024 contribution, whether it was accepted or presented or not,
+but in that case it should be a significantly extended version of that
+contribution. Otherwise, other contributions related to the themes of
+RAMiCS are also welcome.
+
+The projected deadline for the special issue is 15 April 2025, but we
+would appreciate if you could announce your intention to submit a
+paper as soon as possible. We intend to publish the special issue by
+April 2027. Fundamenta Informaticae is a "diamond" open access
+journal: published papers are accessible without cost, there are no
+publication fees, and authors retain the rights to their work. For
+more information see
+
+		https://fi.episciences.org/
+
+Please contact one of the guest editors to announce your intention to
+submit a paper:
+
+SPECIAL ISSUE GUEST EDITORS
+
+   Uli Fahrenberg, EPITA Rennes, France
+                                                    uli.fahrenberg@epita.fr
+   Wesley Fussner, Institute of Computer Science of the Czech Academy of
+   	  	   Sciences, Prague, Czechia              fussner@cs.cas.cz
+   Roland Glück, German Aerospace Center, Augsburg, Germany
+                                                       Roland.Glueck@dlr.de
