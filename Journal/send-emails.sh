@@ -1,16 +1,16 @@
 #!/bin/bash
 
-ADDRS=emails-test.csv
-#ADDRS=private/ramics24-emails.csv
+#ADDRS=emails-test.csv
+ADDRS=private/ramics-emails.csv
 #ADDRS=/tmp/emails-1.csv
 
 FROM=fahrenberg@gmail.com
 
-EMAILCONT=invit-conf.txt
+EMAILCONT=cfp.txt
 
 #SUBJECT='CfP: Relational and Algebraic Methods in Computer Science, RAMiCS 2024, Prague'
 #SUBJECT='3rd CfP & Deadline Extension: RAMiCS 2024'
-SUBJECT='Special RAMiCS Issue Fundamenta Informaticae'
+SUBJECT='Special Issue Fundamenta Informaticae: Relational and Algebraic Methods in Computer Science'
 
 #TMPDIR=$(mktemp -d)
 TMPDIR=/tmp
