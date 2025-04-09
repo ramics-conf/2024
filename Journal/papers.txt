@@ -1,0 +1,49 @@
+# Michał J Gajda
+<mjgajda@gmail.com>
+Simplex languages and decomposition of countable semigroups
+
+# Damas Gruska
+<damas.gruska@gmail.com>
+
+# Jeremy Alm
+<alm.academic@gmail.com>
+with John Snow
+
+# Eugenia Ternovska
+<ter@sfu.ca>
+
+# Michael Winter
+<mwinter@brocku.ca>
+Counting Specific Classes of Relations Regarding Fixed Points and Reflexive Points
+with Rudolf Berghammer and Jules Desharnais
+
+# Koki Nishizawa
+<nishizawa@kanagawa-u.ac.jp>
+Categorical generalization of spectral decomposition
+
+# Eric Goubault
+<goubault@lix.polytechnique.fr>
+une vision algèbre et co-algebre (au sens catégorique du terme) pour les protocol complex a la Herlihy et al, et les liens de tout ca avec des logiques temporelles epistemiques
+
+# Peter Jipsen
+<jipsen@chapman.edu>
+On the structure of balanced residuated partially-ordered monoids
+with Stefano Bonzio, José Gil-Férez, Adam Prenosil, Melissa Sugimoto
+
+# Andrew Craig
+<acraig@uj.ac.za>
+expand our 2024 RAMiCS paper
+with Claudette Robinson and Peter Jipsen
+
+# Ignacio Bellas Acosta
+<sciba@leeds.ac.uk>
+with John Stell
+
+# Uli Fahrenberg
+<uli@lrde.epita.fr>
+extended version of our RAMiCS paper (and of our DLT paper)
+with Amazigh Amrane et al
+
+# Yoshiki Nakamura
+<nakamura.yoshiki.ny@gmail.com>
+updated version of my paper at RAMiCS 2024
