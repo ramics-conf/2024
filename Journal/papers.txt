@@ -20,6 +20,7 @@ with Rudolf Berghammer and Jules Desharnais
 # Koki Nishizawa
 <nishizawa@kanagawa-u.ac.jp>
 Categorical generalization of spectral decomposition
+with Yusuke Ide and Norihiro Tsumagari
 
 # Eric Goubault
 <goubault@lix.polytechnique.fr>
