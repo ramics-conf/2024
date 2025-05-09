@@ -1,50 +1,66 @@
 # Michał J Gajda
 <mjgajda@gmail.com>
 Simplex languages and decomposition of countable semigroups
+0509 no submission
 
 # Damas Gruska
 <damas.gruska@gmail.com>
+0509 no submission
 
 # Jeremy Alm
 <alm.academic@gmail.com>
 with John Snow
+OK 15479
 
 # Eugenia Ternovska
 <ter@sfu.ca>
+0509 no submission
 
 # Michael Winter
 <mwinter@brocku.ca>
 Counting Specific Classes of Relations Regarding Fixed Points and Reflexive Points
 with Rudolf Berghammer and Jules Desharnais
+OK 15613
 
 # Koki Nishizawa
 <nishizawa@kanagawa-u.ac.jp>
 Categorical generalization of spectral decomposition
 with Yusuke Ide and Norihiro Tsumagari
+OK 15588
 
 # Eric Goubault
 <goubault@lix.polytechnique.fr>
 une vision algèbre et co-algebre (au sens catégorique du terme) pour les protocol complex a la Herlihy et al, et les liens de tout ca avec des logiques temporelles epistemiques
+0509 no submission: OK
 
 # Peter Jipsen
 <jipsen@chapman.edu>
 On the structure of balanced residuated partially-ordered monoids
 with Stefano Bonzio, José Gil-Férez, Adam Prenosil, Melissa Sugimoto
+0509 no submission: OK
 
 # Andrew Craig
 <acraig@uj.ac.za>
 expand our 2024 RAMiCS paper
 with Claudette Robinson and Peter Jipsen
+0509 no submission
 
 # Ignacio Bellas Acosta
 <sciba@leeds.ac.uk>
 with John Stell
+NO
 
 # Uli Fahrenberg
 <uli@lrde.epita.fr>
 extended version of our RAMiCS paper (and of our DLT paper)
 with Amazigh Amrane et al
+0509 no submission
 
 # Yoshiki Nakamura
 <nakamura.yoshiki.ny@gmail.com>
 updated version of my paper at RAMiCS 2024
+OK 15597
+
+# Joao Paixao
+jpaixao@ic.ufrj.br
+OK 15510
